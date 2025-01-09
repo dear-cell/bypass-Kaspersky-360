@@ -7,3 +7,5 @@
 ![image](https://github.com/user-attachments/assets/e9391282-924d-4aa4-8160-b4a9edcee47b)
 卡巴只会报毒，也不影响我们正常执行命令
 ![image](https://github.com/user-attachments/assets/0ddc7b40-ac47-4891-8256-5674fa062f08)
+添加用户也是没问题的
+![image](https://github.com/user-attachments/assets/9a58d778-a9e0-4982-9667-796c2a058a17)
