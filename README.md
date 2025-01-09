@@ -9,3 +9,6 @@
 ![image](https://github.com/user-attachments/assets/0ddc7b40-ac47-4891-8256-5674fa062f08)
 添加用户也是没问题的
 ![image](https://github.com/user-attachments/assets/9a58d778-a9e0-4982-9667-796c2a058a17)
+
+这里放的是编译好的能过360的exe，如果360报202就加一下资源，如果星星多的话放出源码。
+使用方法参考（当然注入其他进程也是可以的）：.\a.exe .\payload_x64.bin "C:\Windows\System32\winlogon.exe"
